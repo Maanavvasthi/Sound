@@ -1,0 +1,33 @@
+body{
+    background-color:yellow;
+    font-family: "Playfair Display", serif;
+}
+.header_div{
+    background:white;
+    color: aqua;
+}
+.header_div p{
+    font-family: "Barlow Condensed", sans-serif;
+    color:rgb(18, 100, 186);
+    letter-spacing:2px;
+    font-size:15px;
+    font-weight:bolder;
+}
+.main_div button{
+    font-family:"Barlow Condensed", sans-serif;
+    margin-top:30px;
+    letter-spacing:3px;
+    font-weight:bolder;
+    width:130px;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color:rgb(130, 223, 49);
+    line-height:3;
+    text-align:center;
+    background-color:bisque;
+    font-size:20px;
+    text-shadow:5px 5px 5px rgb(131,155,156 );
+}
